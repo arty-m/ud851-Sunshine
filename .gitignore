@@ -1,0 +1,4 @@
+*.bat
+S01.01-Exercise-CreateLayout/app/gradlew
+*.jar
+S01.01-Exercise-CreateLayout/app/gradle/wrapper/gradle-wrapper.properties
